@@ -12,8 +12,8 @@
 ### Run your own server
 
 ```bash
-export PORT=5000
-export ELECTRS_URL=http://localhost:3000
+export PORT=5003
+export ELECTRS_URL=http://localhost:3002
 export CONCURRENCY=10
 
 npm start
